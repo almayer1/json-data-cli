@@ -1,0 +1,12 @@
+{
+  "name": "json-data-cli",
+  "version": "1.0.0",
+  "description": "Command-line tool to add/remove/list tagged entries and import/export CSV.",
+  "bin": { "json-data": "./cli.js" },
+  "type": "commonjs",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
+  }
+}
