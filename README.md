@@ -1,6 +1,6 @@
 # jsi-cli-tool
 
-A simple Node.js command-line tool to manage JSON data with tags, plus CSV import/export support.
+A simple Node.js command-line tool to manage JSON data with tags
 
 ## Features
 - **Add** items with a name, optional description, and tags
@@ -18,3 +18,4 @@ Clone or download this repository, then install dependencies:
 
 ```bash
 npm install
+
